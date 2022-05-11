@@ -224,8 +224,8 @@ export const VARIANTS: IVariant[] = [
                 columns: 11,
                 rows: 10,
                 distance: {
-                    x: 75.0,
-                    y: 75.0
+                    x: 91.0,
+                    y: 91.0
                 },
                 font: {
                     size: 21
@@ -272,8 +272,8 @@ export const VARIANTS: IVariant[] = [
                 columns: 11,
                 rows: 10,
                 distance: {
-                    x: 75.0,
-                    y: 75.0
+                    x: 91.0,
+                    y: 91.0
                 },
                 font: {
                     size: 21
